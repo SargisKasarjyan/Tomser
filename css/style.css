@@ -1,0 +1,691 @@
+
+.g3{
+    height: 300px;
+    width: 70%;
+}
+
+.g4{
+    background-color: wheat;
+    height: 300px;
+    width: 330px;
+    position: absolute;
+    top: 7px;
+    left: 950px;
+}
+.g5{
+    position: absolute;
+    top: 10px;
+    left: 960px;
+}
+.g6{
+    position: absolute;
+    top: 94px;
+    left: 1176px;
+    width: 100px;
+    height: 100px;
+}
+.g7{
+    position: absolute;
+    top: 130px;
+    left: 978px;
+}
+.g8{
+    position: absolute;
+    top: 110px;
+    left: 980px;
+}
+.g9{
+    position: absolute;
+    top: 320px;
+    left: 50px;
+    font-size: 20px;
+}
+.g10{
+    position: absolute;
+    top: 380px;
+    width: 770px;
+    height: 100px;
+    left: 30px;
+    border: 1px solid black
+}
+.g11{
+    top: 420px;
+    position: absolute;
+    left: 47px;
+    font-size: 19px
+}
+.gg{
+    top: 423px;
+    position: absolute;
+    left: 116px;
+}
+.g12{
+    top: 420px;
+    position: absolute;
+    left: 138px;
+    font-size: 19px;
+    color:  black;
+}
+.g13{
+    top: 420px;
+    position: absolute;
+    left: 259px;
+    color: red;
+    font-size: 19px;
+}
+
+
+.g15{
+    top: 423px;
+    position: absolute;
+    left: 426px;
+    font-size: 19px
+}
+.g16{
+    top: 423px;
+    position: absolute;
+    left: 523px;
+    font-size: 19px
+}
+.gg1{
+    top: 425px;
+    position: absolute;
+    left: 498px;
+}
+
+.g17{
+    top: 425px;
+    position: absolute;
+    left: 637px;
+    color: red;
+    font-size: 19px
+}
+.g18{
+    position: absolute;
+    top: 481px;
+    width: 770px;
+    height: 100px;
+    left: 30px;
+    border: 1px solid black
+}
+.g19{
+    top: 520px;
+    position: absolute;
+    left: 47px;
+    font-size: 19px
+}
+.gg2{
+    top: 522px;
+    position: absolute;
+    left: 114px;
+}
+.g20{
+    top: 520px;
+    position: absolute;
+    left: 135px;
+    font-size: 19px;
+    color:  black;
+}
+.g21{
+    top: 520px;
+    position: absolute;
+    left: 266px;
+    color: red;
+    font-size: 19px;
+}
+.g22{
+    top: 521px;
+    position: absolute;
+    left: 429px;
+    font-size: 19px;
+}
+.gg3{
+    top: 522px;
+    position: absolute;
+    left: 502px;
+}
+.g23{
+    top: 521px;
+    position: absolute;
+    left: 529px;
+    font-size: 19px
+}
+.g24{
+    top: 521px;
+    position: absolute;
+    left: 640px;
+    color: red;
+    font-size: 19px
+}
+.g25{
+    position: absolute;
+    top: 582px;
+    width: 770px;
+    height: 100px;
+    left: 30px;
+    border: 1px solid black
+}
+.g26{
+    top: 619px;
+    position: absolute;
+    left: 47px;
+    font-size: 19px
+}
+.g27{
+    top: 622px;
+    position: absolute;
+    left: 142px;
+    font-size: 19px;
+}
+.gg4{
+    top: 622px;
+    position: absolute;
+    left: 118px;
+}
+.g28{
+    top: 622px;
+    position: absolute;
+    left: 270px;
+    color: red;
+    font-size: 19px;
+}
+.g29{
+    top: 622px;
+    position: absolute;
+    left: 434px;
+    font-size: 19px;
+}
+.gg5{
+    top: 624px;
+    position: absolute;
+    left: 505px;
+}
+.g30{
+    top: 624px;
+    position: absolute;
+    left: 528px;
+    font-size: 19px
+}
+.g31{
+    top: 624px;
+    position: absolute;
+    left: 638px;
+    color: red;
+    font-size: 19px
+}
+.g32{
+    position: absolute;
+    top: 683px;
+    width: 770px;
+    height: 100px;
+    left: 30px;
+    border: 1px solid black
+}
+.g33{
+    top: 723px;
+    position: absolute;
+    left: 47px;
+    font-size: 19px
+}
+.gg6{
+    top: 725px;
+    position: absolute;
+    left: 118px;
+}
+.g34{
+    top: 725px;
+    position: absolute;
+    left: 140px;
+    font-size: 19px;
+}
+.g35{
+    top: 725px;
+    position: absolute;
+    left: 267px;
+    color: red;
+    font-size: 19px;
+}
+.g36{
+    top: 725px;
+    position: absolute;
+    left: 437px;
+    font-size: 19px;
+}
+.gg7{
+    top: 725px;
+    position: absolute;
+    left: 509px;
+}
+.g37{
+    top: 725px;
+    position: absolute;
+    left: 534px;
+    font-size: 19px
+}
+.g38{
+    top: 725px;
+    position: absolute;
+    left: 640px;
+    color: red;
+    font-size: 19px
+}
+.g39{
+    top: 320px;
+    position: absolute;
+    left: 1040px;
+    font-size: 19px;
+}
+.ggg1{
+    position: absolute;
+    top: 345px;
+    left: 1055px;
+    color: gold;
+}
+.g40{
+    position: absolute;
+    top: 377px;
+    width: 352px;
+    height: 400px;
+    left: 926px;
+    border: 1px solid black;
+}
+.g41{
+    position: absolute;
+    top: 398px;
+    font-size: 19px;
+    left: 943px;
+}
+.g42{
+    position: absolute;
+    top: 398px;
+    font-size: 19px;
+    left: 960px;
+}
+.pr-1{
+    padding-left: 281px;
+    margin-top: 5px
+}
+.g43{
+    position: absolute;
+    top: 402px;
+    left: 970px
+}
+.g44{
+    position: absolute;
+    top: 422px;
+    font-size: 19px;
+    left: 944px;
+}
+.g45{
+    position: absolute;
+    top: 422px;
+    font-size: 19px;
+    left: 967px;
+}
+.g46{
+    position: absolute;
+    top: 429px;
+    font-size: 19px;
+    left: 1240px
+}
+.g47{
+    position: absolute;
+    top: 445px;
+    font-size: 19px;
+    left: 945px;
+}
+.g48{
+    position: absolute;
+    top: 445px;
+    font-size: 19px;
+    left: 967px;
+}
+.g49{
+    position: absolute;
+    top: 453px;
+    font-size: 19px;
+    left: 1240px
+}
+.g50{
+    position: absolute;
+    top: 468px;
+    font-size: 19px;
+    left: 945px;
+}
+.g51{
+    position: absolute;
+    top: 468px;
+    font-size: 19px;
+    left: 970px;
+}
+.g52{
+    position: absolute;
+    top: 478px;
+    font-size: 19px;
+    left: 1239px;
+}
+.g53{
+    position: absolute;
+    top: 492px;
+    font-size: 19px;
+    left: 946px;
+}
+.g54{
+    position: absolute;
+    top: 492px;
+    font-size: 19px;
+    left: 968px;
+}
+.g55{
+    position: absolute;
+    top: 500px;
+    font-size: 19px;
+    left: 1239px;
+}
+.g56{
+    position: absolute;
+    top: 515px;
+    font-size: 19px;
+    left: 946px;
+}
+.g57{
+    position: absolute;
+    top: 515px;
+    font-size: 19px;
+    left: 970px;
+}
+.g58{
+    position: absolute;
+    top: 523px;
+    font-size: 19px;
+    left: 1238px;
+}
+.g59{
+    position: absolute;
+    top: 540px;
+    font-size: 19px;
+    left: 946px;
+}
+.g60{
+    position: absolute;
+    top: 540px;
+    font-size: 19px;
+    left: 970px;
+}
+.g61{
+    position: absolute;
+    top: 547px;
+    font-size: 19px;
+    left: 1238px;
+}
+.g62{
+    position: absolute;
+    top: 564px;
+    font-size: 19px;
+    left: 946px;
+}
+.g63{
+    position: absolute;
+    top: 564px;
+    font-size: 19px;
+    left: 970px;
+}
+.g64{
+    position: absolute;
+    top: 574px;
+    font-size: 19px;
+    left: 1238px;
+}
+.g65{
+    position: absolute;
+    top: 589px;
+    font-size: 19px;
+    left: 948px;
+}
+.g67{
+    position: absolute;
+    top: 589px;
+    font-size: 19px;
+    left: 970px;
+}
+.g68{
+    position: absolute;
+    top: 595px;
+    font-size: 19px;
+    left: 1238px;
+}
+.g69{
+    position: absolute;
+    top: 610px;
+    font-size: 19px;
+    left: 944px
+}
+.g70{
+    position: absolute;
+    top: 610px;
+    font-size: 19px;
+    left: 975px;
+}
+.g71{
+    position: absolute;
+    top: 615px;
+    font-size: 19px;
+    left: 1238px;
+}
+.g72{
+    position: absolute;
+    top: 835px;
+    font-size: 23px;
+    left: 200px;
+}
+
+.g73{
+    position: absolute;
+    top: 884px;
+    width: 785px;
+    height: 500px;
+    left: 36px;
+    border: 1px solid black;
+}
+.g74{
+    position: absolute;
+    top: 890px;
+    left: 37px;
+    font-size: 12px;
+}
+.g75{
+    position: absolute;
+    top: 926px;
+    left: 49px;
+    font-size: 19px;
+    color: red;
+}
+.g76{
+    position: absolute;
+    top: 950px;
+    left: 50px;
+    font-size: 13px;
+}
+.g77{
+    position: absolute;
+    top: 1026px;
+    left: 50px;
+    font-size: 13px;
+}
+.g78{
+    position: absolute;
+    top: 1085px;
+    left: 47px;
+    font-size: 17px;
+    color: red;
+}
+.g79{
+    position: absolute;
+    top: 1113px;
+    left: 50px;
+    font-size: 12px
+}
+.g80{
+    position: absolute;
+    top: 1179px;
+    left: 52px;
+    font-size: 21px;
+    color: red;
+}
+.g81{
+    position: absolute;
+    top: 1212px;
+    left: 52px;
+    font-size: 12px
+}
+.g82{
+    position: absolute;
+    top: 1260px;
+    left: 54px;
+    color: red;
+    font-size: 21px
+}
+.g83{
+    position: absolute;
+    top: 1297px;
+    left: 54px;
+    font-size: 13px;
+}
+
+.g84{
+    position: absolute;
+    top: 843px;
+    left: 990px;
+    font-size: 19px
+}
+.g85{
+    position: absolute;
+    top: 882px;
+    left: 930px;
+    width: 348px;
+    height: 323px;
+    border: 1px solid black;
+    color: whitesmoke;
+}
+.g86{
+    position: absolute;
+    top: 900px;
+    left: 950px;
+    font-size: 15px
+}
+.g87{
+    position: absolute;
+    top: 939px;
+    left: 950px;
+    font-size: 15px
+}
+.g88{
+    position: absolute;
+    top: 979px;
+    left: 950px;
+    font-size: 15px
+}
+.g89{
+    position: absolute;
+    top: 1019px;
+    left: 950px;
+    font-size: 15px
+}
+.g90{
+    position: absolute;
+    top: 1070px;
+    left: 950px;
+    font-size: 15px
+}
+.g91{
+    position: absolute;
+    top: 1100px;
+    left: 950px;
+    font-size: 15px
+}
+.g92{
+    position: absolute;
+    top: 1445px;
+    left: 1px;
+    width: 100%;
+    height: 312px;
+    border: 1px solid black;
+    color: whitesmoke
+}
+.g93{
+    position: absolute;
+    top: 1497px;
+    left: 52px
+}
+.g94{
+    position: absolute;
+    top: 1502px;
+    left: 373px;
+}
+.g95{
+    position: absolute;
+    top: 1502px;
+    left: 720px;
+}
+.g96{
+    position: absolute;
+    top: 1502px;
+    left: 1030px;
+}
+
+.ee{
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  margin-top: 1255px;
+  margin-left: 19px;
+}
+.eee{
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  margin-top: 24px;
+  font-size: 13px;
+  margin-left: 0px;
+}
+.eee1{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    font-size: 13px;
+    margin-left: 35px
+}
+.eee2{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    font-size: 13px;
+    margin-left: 28px;
+}
+
+.g97{
+    position: absolute;
+    width: 40px;
+    height: 60px;
+    top: 1760px;
+    left: 1220px;
+}
+.lav{
+    position: absolute;
+    top: 1820px;
+    left: 945px
+}
+.g98{
+    position: absolute;
+    width: 95px;
+    height: 60px;
+    top: 1750px;
+    left: 36px
+}
+.lav1{
+    position: absolute;
+    top: 1830px;
+    left: 35px;
+}
